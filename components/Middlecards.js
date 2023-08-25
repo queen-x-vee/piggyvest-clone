@@ -28,7 +28,7 @@ const DATA = [
   },
 ];
 
-export default function Topcards() {
+export default function Middlecards() {
   return (
     <SafeAreaView style={styles.container}>
       <View>
