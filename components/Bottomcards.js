@@ -27,6 +27,13 @@ const DATA = [
     title: 'Third Item',
   },
 ];
+const colors=[
+  {
+    purple: '#7913e5;',
+    mainblue:'#0f60d6',
+    fixedsavingsblue:'',
+  }
+]
 
 export default function Bottomcards() {
   return (
